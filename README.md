@@ -33,7 +33,7 @@
 
 ---
 
-<h3>📜 Loadstring</h3>
+<h3>📜 ZNX HUB </h3>
 
 <p><strong>Copy and paste into your executor:</strong></p>
 
