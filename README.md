@@ -41,10 +41,6 @@
   <code id="script-code">loadstring(game:HttpGet('https://raw.githubusercontent.com/ZNX-GHAZITAB/ZNX-OFFICIAL/main/placeholder.lua'))()</code>
 </p>
 
-<p>
-  <a href="javascript:void(0)" onclick="document.getElementById('script-code').select(); document.execCommand('copy')">Click to Copy</a>
-</p>
-
 ---
 
 <h3>🛠️ Dev Info</h3>
