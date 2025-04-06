@@ -38,7 +38,7 @@
 <p><strong>Copy and paste into your executor:</strong></p>
 
 <p>
-  <code id="script-code">loadstring(game:HttpGet('https://raw.githubusercontent.com/ZNX-GHAZITAB/ZNX-OFFICIAL/main/placeholder.lua'))()</code>
+  <code id="script-code">loadstring(game:HttpGet('https://raw.githubusercontent.com/ZNX-GHAZITAB/ZNX-OFFICIAL/refs/heads/FLX/SCRIPTS/ZNX-HUB'))()</code>
 </p>
 
 ---
