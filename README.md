@@ -5,7 +5,7 @@
 </p>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=ZNX+HUB+by+ghazitab_main;Sword+Fighting+Tycoon+Exploit+Scripts;Rocket+%2F+Smoke+%2F+Fling+GUI+%2F+Reach+%2F+Admin+%2F+Misc+Tools" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=ZNX+HUB+by+ghazitab_main;Sword+Fighting+Tycoon+Exploit+Scripts;Rocket+%2F+Smoke+%2F+Fling+GUI"/>
 </p>  
 
 ---
@@ -44,7 +44,6 @@
 <p>
   <a href="javascript:void(0)" onclick="document.getElementById('script-code').select(); document.execCommand('copy')">Click to Copy</a>
 </p>
-
 
 ---
 
