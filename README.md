@@ -38,7 +38,8 @@
 <p><strong>Copy and paste into your executor:</strong></p>
 
 <p>
-  <button onclick="navigator.clipboard.writeText('loadstring(game:HttpGet(\\'https://raw.githubusercontent.com/ZNX-GHAZITAB/ZNX-OFFICIAL/main/placeholder.lua\\'))()')">Copy Script</button>
+  <code>loadstring(game:HttpGet('https://raw.githubusercontent.com/ZNX-GHAZITAB/ZNX-OFFICIAL/main/placeholder.lua'))()</code>
+  <button onclick="navigator.clipboard.writeText('loadstring(game:HttpGet(\'https://raw.githubusercontent.com/ZNX-GHAZITAB/ZNX-OFFICIAL/main/placeholder.lua\'))()')">Copy Script</button>
 </p>
 
 ---
