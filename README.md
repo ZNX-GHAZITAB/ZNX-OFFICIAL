@@ -38,10 +38,7 @@
 <p><strong>Copy and paste into your executor:</strong></p>
 
 <p>
-  <code>
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/YOURUSERNAME/YOURREPO/main/znxhub.lua"))()
-  </code><br>
-  <em>← Replace with your GitHub username & repo</em>
+  <button onclick="navigator.clipboard.writeText('loadstring(game:HttpGet(\\'https://raw.githubusercontent.com/ZNX-GHAZITAB/ZNX-OFFICIAL/main/znxhub.lua\\'))()')">Copy Script</button>
 </p>
 
 ---
