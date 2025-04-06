@@ -1,59 +1,47 @@
-# ⚔️ Sword Fighting Tycoon Exploits - ZNX HUB Style
+<h1 align="center">⚔️ Sword Fighting Tycoon Exploits - ZNX HUB ⚔️</h1>  
 
-Welcome to the **Ultimate Roblox Exploit Hub** focused on **Sword Fighting Tycoon**. This repo brings you high-performance scripts styled after ZNX HUB, made for dominating the game.
+<p align="center">
+  <img src="https://i.imgur.com/gAmDRdc.jpeg" width="150" height="150" style="border-radius: 50%;" alt="Profile Picture"/>
+</p>
 
----
-
-## 💻 Features
-
-- 🚀 Rocket Scripts  
-- 🌫️ Smoke Scripts  
-- 👑 Admin / Hubs  
-- 🌀 Fling GUI  
-- ✋ Reach Scripts  
-- 🧩 Others  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=ZNX+HUB+by+ghazitab_main;Sword+Fighting+Tycoon+Exploit+Scripts;Rocket+%2F+Smoke+%2F+Fling+%2F+Reach;Custom+GUIs+%26+More" alt="Typing SVG" />
+</p>  
 
 ---
 
-## 🚀 Getting Started
+<h3 align="center">💻 About This Repo</h3>
 
-1. Use any Roblox Executor (like Delta).
-2. Inject & execute your chosen script.
-3. Wipe out the competition in Sword Fighting Tycoon.
-
----
-
-## 🧩 Scripts Included
-
-- `ZNX HUB` – Custom exploit hub created by **ghazitab_main**, inspired by classic UIs but fully original.
-- Unique modules including rocket, smoke, fling, reach, and more.
-
+<p align="center">
+  Powerful exploit collection for <strong>Sword Fighting Tycoon</strong> featuring the fully custom <strong>ZNX HUB</strong>.  
+  All scripts are optimized for performance and ease of use.
+</p>
 
 ---
 
-## 📫 Contact Me
+<h3 align="center">🚀 Scripts Inside</h3>
 
-**Discord:** `ghazitab_main`  
-Reach out for bugs, ideas, or collaborations.
-
----
-
-## 🌟 GitHub Extras
-
-- [x] Easy script loading
-- [x] Organized file structure
-- [x] Regular script improvements
-- [x] Fully Luau compatible
+<p align="center">
+  🔥 ZNX HUB – Custom UI & tools<br>
+  🧨 Rocket Scripts<br>
+  🌫️ Smoke Effects<br>
+  🌀 Fling GUI<br>
+  ✋ Reach Enhancements<br>
+  👑 Admin/Hubs<br>
+  🔧 Misc Custom Tools
+</p>
 
 ---
 
-## 🛑 Disclaimer
+<h3 align="center">📜 How to Use</h3>
 
-This repository is for **educational purposes** only. Use at your own risk.
-
----
-
-### 📁 ZNX HUB Copy
+<p align="center">
+  <strong>Load the hub with this script:</strong>
+</p>
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YOURUSERNAME/YOURREPO/main/znxhubcopy.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/YOURUSERNAME/YOURREPO/main/znxhub.lua"))()
+
+<p align="center"> <em>Replace <code>YOURUSERNAME</code> and <code>YOURREPO</code> with your GitHub info.</em> </p>
+<h3 align="center">🛠️ Dev Info</h3> <p align="center"> 👤 Created by: <strong>ghazitab_main</strong><br> 💻 Language: <strong>Luau</strong><br> 🧠 Executor: <strong>Wave</strong> </p>
+<h3 align="center">📲 Contact Me</h3> <p align="center"> 💬 <strong>Discord:</strong> <code>ghazitab_main</code> </p> <p align="center"> <img src="https://forthebadge.com/images/badges/made-with-lua.svg"/> <img src="https://forthebadge.com/images/badges/built-with-love.svg"/> </p> ```
