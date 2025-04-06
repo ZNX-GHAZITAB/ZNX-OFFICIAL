@@ -39,19 +39,12 @@
 
 <p>
   <code id="script-code">loadstring(game:HttpGet('https://raw.githubusercontent.com/ZNX-GHAZITAB/ZNX-OFFICIAL/main/placeholder.lua'))()</code>
-  <button onclick="copyToClipboard()">Copy Script</button>
 </p>
 
-<script>
-  function copyToClipboard() {
-    const scriptCode = document.getElementById('script-code').innerText;
-    navigator.clipboard.writeText(scriptCode).then(() => {
-      alert('Script copied to clipboard!');
-    }, (err) => {
-      console.error('Could not copy text: ', err);
-    });
-  }
-</script>
+<p>
+  <a href="javascript:void(0)" onclick="document.getElementById('script-code').select(); document.execCommand('copy')">Click to Copy</a>
+</p>
+
 
 ---
 
