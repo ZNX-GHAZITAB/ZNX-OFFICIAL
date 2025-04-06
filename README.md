@@ -33,12 +33,12 @@
 
 ---
 
-<h3>📜 ZNX HUB </h3>
+<h3>📜 ZNX HUB</h3>
 
 <p><strong>Copy and paste into your executor:</strong></p>
 
 <p>
-  <button onclick="navigator.clipboard.writeText('loadstring(game:HttpGet(\\'https://raw.githubusercontent.com/ZNX-GHAZITAB/ZNX-OFFICIAL/main/znxhub.lua\\'))()')">Copy Script</button>
+  <button onclick="navigator.clipboard.writeText('loadstring(game:HttpGet(\\'https://raw.githubusercontent.com/ZNX-GHAZITAB/ZNX-OFFICIAL/main/placeholder.lua\\'))()')">Copy Script</button>
 </p>
 
 ---
