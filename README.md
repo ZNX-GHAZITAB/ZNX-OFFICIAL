@@ -44,26 +44,13 @@
 
 <script>
   function copyToClipboard() {
-    var scriptCode = document.getElementById('script-code');
-    var range = document.createRange();
-    range.selectNode(scriptCode);
-    window.getSelection().removeAllRanges();
-    window.getSelection().addRange(range);
-    document.execCommand('copy');
-    alert('Script copied to clipboard!');
+    const scriptCode = document.getElementById('script-code').innerText;
+    navigator.clipboard.writeText(scriptCode).then(() => {
+      alert('Script copied to clipboard!');
+    }, (err) => {
+      console.error('Could not copy text: ', err);
+    });
   }
-</script>
-
-
-<script>
-function copyToClipboard() {
-  const scriptCode = document.getElementById('script-code').innerText;
-  navigator.clipboard.writeText(scriptCode).then(() => {
-    alert('Script copied to clipboard!');
-  }, (err) => {
-    console.error('Could not copy text: ', err);
-  });
-}
 </script>
 
 ---
@@ -87,4 +74,4 @@ function copyToClipboard() {
 <p>  
   <img src="https://forthebadge.com/images/badges/made-with-lua.svg"/>  
   <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>  
-</p>  
+</p>
