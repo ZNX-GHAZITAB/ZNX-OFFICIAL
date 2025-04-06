@@ -47,7 +47,7 @@
 
 <p>
   👤 <strong>Created by:</strong> ghazitab_main<br>
-  🧠 <strong>Made for:</strong> Wave Executor<br>
+  🧠 <strong>Made for:</strong>Executors<br>
   🔤 <strong>Language:</strong> Luau
 </p>
 
