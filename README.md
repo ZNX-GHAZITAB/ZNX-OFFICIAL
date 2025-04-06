@@ -43,6 +43,19 @@
 </p>
 
 <script>
+  function copyToClipboard() {
+    var scriptCode = document.getElementById('script-code');
+    var range = document.createRange();
+    range.selectNode(scriptCode);
+    window.getSelection().removeAllRanges();
+    window.getSelection().addRange(range);
+    document.execCommand('copy');
+    alert('Script copied to clipboard!');
+  }
+</script>
+
+
+<script>
 function copyToClipboard() {
   const scriptCode = document.getElementById('script-code').innerText;
   navigator.clipboard.writeText(scriptCode).then(() => {
