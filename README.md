@@ -13,8 +13,8 @@
 <h3 align="center">💻 About This Repo</h3>
 
 <p align="center">
-  Powerful exploit collection for <strong>Sword Fighting Tycoon</strong> featuring the fully custom <strong>ZNX HUB</strong>.  
-  All scripts are optimized for performance and ease of use.
+  Powerful exploit collection for <strong>Sword Fighting Tycoon</strong> featuring the custom-built <strong>ZNX HUB</strong>.<br>
+  Scripts are fast, clean, and made to dominate.
 </p>
 
 ---
@@ -22,26 +22,48 @@
 <h3 align="center">🚀 Scripts Inside</h3>
 
 <p align="center">
-  🔥 ZNX HUB – Custom UI & tools<br>
+  🔥 ZNX HUB – Custom UI + tools<br>
   🧨 Rocket Scripts<br>
   🌫️ Smoke Effects<br>
   🌀 Fling GUI<br>
   ✋ Reach Enhancements<br>
   👑 Admin/Hubs<br>
-  🔧 Misc Custom Tools
+  🔧 Misc Tools
 </p>
 
 ---
 
-<h3 align="center">📜 How to Use</h3>
+<h3 align="center">📜 Loadstring</h3>
+
+<p align="center"><strong>Copy and paste into your executor:</strong></p>
 
 <p align="center">
-  <strong>Load the hub with this script:</strong>
+  
+  <code>
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/YOURUSERNAME/YOURREPO/main/znxhub.lua"))()
+  </code><br>
+  <em>← Replace with your GitHub username & repo</em>
 </p>
 
-```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YOURUSERNAME/YOURREPO/main/znxhub.lua"))()
+---
 
-<p align="center"> <em>Replace <code>YOURUSERNAME</code> and <code>YOURREPO</code> with your GitHub info.</em> </p>
-<h3 align="center">🛠️ Dev Info</h3> <p align="center"> 👤 Created by: <strong>ghazitab_main</strong><br> 💻 Language: <strong>Luau</strong><br> 🧠 Executor: <strong>Wave</strong> </p>
-<h3 align="center">📲 Contact Me</h3> <p align="center"> 💬 <strong>Discord:</strong> <code>ghazitab_main</code> </p> <p align="center"> <img src="https://forthebadge.com/images/badges/made-with-lua.svg"/> <img src="https://forthebadge.com/images/badges/built-with-love.svg"/> </p> ```
+<h3 align="center">🛠️ Dev Info</h3>
+
+<p align="center">
+  👤 <strong>Created by:</strong> ghazitab_main<br>
+  🧠 <strong>Made for:</strong> Wave Executor<br>
+  🔤 <strong>Language:</strong> Luau
+</p>
+
+---
+
+<h3 align="center">📲 Contact Me</h3>
+
+<p align="center">
+  💬 <strong>Discord:</strong> <code>ghazitab_main</code>
+</p>
+
+<p align="center">  
+  <img src="https://forthebadge.com/images/badges/made-with-lua.svg"/>  
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>  
+</p>  
